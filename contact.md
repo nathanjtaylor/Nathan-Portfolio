@@ -1,7 +1,7 @@
 ---
 layout: layout.liquid
-title: About
+title: Contact
 ---
 
-## Hello, I am Nathan
+## Hello, I am Nathan Taylor
 <img class="about" alt="pine" src="/images/pine.png" width="50" />

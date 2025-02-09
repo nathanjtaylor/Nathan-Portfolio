@@ -97,10 +97,19 @@ button{
 }
 
 
+article {
+    padding: 128px 64px 64px 64px;
+}
+
+
+
+
 footer {
     background-color: var(--highlight);
     height: 64px;
-    visibility: hidden;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
 }
 footer ul {
     display: flex;
