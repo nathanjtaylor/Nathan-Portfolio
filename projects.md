@@ -8,10 +8,12 @@ title: Projects
 ### Woodman Custom Construction
 I worked with Woodman Custom Construction to create a professional portfolio website that showcases their services and projects. The goal was to design a simple, user-friendly site the owner could easily upload new projects to. This was achieved through the integration of Decap CMS on a Netlify-hosted platform. As my first experience working with content management systems, this project provided an invaluable learning opportunity.
 
+<button onclick="window.location.href='/projects/wcc/';">See More</button>
+
 ### Fantasy Football Management System
 I developed a script to integrate a Google Form with Google Sheets for a Fantasy Football Manager, streamlining the process of managing their tournament. I worked closely with the manager to understand their specific needs and researched the most efficient solution to ensure a seamless experience for both participants and the manager. The final solution was well-received, with participants praising the simplicity of the form and the manager noting the significant time saved in organizing and tracking the tournament.
 
-<!--<button onclick="window.location.href='https://w3docs.com';">See More</button> -->
+
 
 ### Portfolio Iterations
 This is the third iteration of my portfolio, reflecting significant growth in both my design and development skills. Over time, I’ve refined my approach to creating more intuitive, aesthetically pleasing, and functional designs. This portfolio serves as a showcase of my continuous development of my abilities.
