@@ -39,6 +39,9 @@ nav ul li a {
     text-decoration: none;
     font-size: 32px;
 }
+nav ul li a:hover {
+    text-decoration: underline;
+}
 
 h1 {
     font-size: 64px;
@@ -90,14 +93,22 @@ button{
     color: var(--dark);
     background-color: var(--light);
     box-shadow: 1px 1px 5px 1px rgba(34,7,18,0.25);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 button:hover {
     cursor: pointer;
+    background-color: white;
+    transform: translateY(-3px);
+    box-shadow: 4px 4px 5px 1px rgba(34,7,18,0.25);
+
 }
 
 .special {
     color: var(--light);
     background-color: var(--highlight);
+}
+.special:hover {
+    background-color: var(--link);
 }
 
 
@@ -158,7 +169,11 @@ footer ul li a {
     font-size: 24px;
     font-weight: bolder;
 }
+footer ul li a:hover {
+    background-color: var(--link);
+}
 .footer-icon {
     max-width: 20px;
     max-height: 21px;
+    margin-right: 1px;
 }
