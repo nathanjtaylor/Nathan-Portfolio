@@ -4,4 +4,4 @@ title: Contact
 ---
 
 ## Hello, I am Nathan Taylor
-<img class="about" alt="pine" src="/images/pine.png" width="50" />
+<img class="about" alt="pine" src="/images/pine.png" width="250" />

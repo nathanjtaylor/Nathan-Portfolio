@@ -99,23 +99,37 @@ button{
 
 article {
     padding: 128px 64px 64px 64px;
+    line-height: 150%;
+    letter-spacing: 0.25px;
+    font-size: 20px;
 }
-
-
-
+article h2{
+    font-size: 24px;
+    line-height: normal;
+    letter-spacing: 0.1px;
+}
+article h2 strong{
+    background-color: #E0AFA0;
+}
+#about-images{
+    margin: 64px auto 64px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
 
 footer {
     background-color: var(--highlight);
     height: 64px;
     width: 100%;
-    position: absolute;
-    bottom: 0px;
 }
 footer ul {
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
     margin: 0;
     padding: 0;
+    height: 100%;
 }
 footer ul li {
     list-style-type: none;
@@ -125,4 +139,9 @@ footer ul li a {
     color: var(--light);
     text-decoration: none;
     font-size: 24px;
+    font-weight: bolder;
+}
+.footer-icon {
+    max-width: 20px;
+    max-height: 21px;
 }
