@@ -3,5 +3,11 @@ layout: layout.liquid
 title: Contact
 ---
 
-## Hello, I am Nathan Taylor
-<img class="about" alt="pine" src="/images/pine.png" width="250" />
+## Contact Me
+Email - nathanjtaylor2003@gmail.com
+
+<a href="https://github.com/nathanjtaylor">Github</a>
+
+<a href="https://www.linkedin.com/in/nathan-taylor9">LinkedIn</a>
+
+<div style="height: 449px;"></div>
