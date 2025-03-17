@@ -121,7 +121,7 @@ button:hover {
 
 
 article {
-    padding: 128px 64px 64px 64px;
+    padding: 128px 20% 64px 20%;
     line-height: 150%;
     letter-spacing: 0.25px;
     font-size: 20px;
@@ -146,6 +146,10 @@ article button {
     height: 48px;
     font-size: 18px;
 }
+article figcaption {
+    font-weight: bold;
+}
+
 #about-images{
     margin: 64px auto 64px;
     display: flex;
