@@ -49,7 +49,7 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
 }
 
-section {
+#home {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -121,7 +121,7 @@ button:hover {
 
 
 article {
-    padding: 128px 20% 64px 20%;
+    padding: 128px 4% 64px 4%;
     line-height: 150%;
     letter-spacing: 0.25px;
     font-size: 20px;
@@ -187,4 +187,26 @@ footer ul li a:hover {
     max-width: 20px;
     max-height: 21px;
     margin-right: 1px;
+}
+
+article #banner {
+    background-color: black;
+    height: 120px;
+    color: var(--light);
+    padding: 1% 2%;
+}
+
+article #banner h1{ 
+    font-size: 36px;
+    letter-spacing: -1px;
+}
+
+article #image-split-right{
+    padding: 0px;
+}
+
+article #image-split-right img{
+    width: 100%;
+    height: 100%;
+    background-color: black;
 }

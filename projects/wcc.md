@@ -1,5 +1,5 @@
 ---
-layout: layout.liquid
+layout: article_layout.liquid
 title: Projects
 ---
 <a href="/projects/">back</a>
