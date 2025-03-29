@@ -13,8 +13,6 @@ I worked with Woodman Custom Construction to create a professional portfolio web
 ### Sports Data Management System
 I developed a script to integrate a Google Form with Google Sheets for a Fantasy Football Manager, streamlining the process of managing their tournament. I worked closely with the manager to understand their specific needs and researched the most efficient solution to ensure a seamless experience for both participants and the manager. The final solution was well-received, with participants praising the simplicity of the form and the manager noting the significant time saved in organizing and tracking the tournament.
 
-
-
 ### Portfolio Iterations
 This is the third iteration of my portfolio, reflecting significant growth in both my design and development skills. Over time, I’ve refined my approach to creating more intuitive, aesthetically pleasing, and functional designs. This portfolio serves as a showcase of my continuous development of my abilities.
 
