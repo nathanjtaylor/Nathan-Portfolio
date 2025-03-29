@@ -26,6 +26,8 @@ I completed an independent study under the guidance of Professor Jeff Siarto, wh
 ### Collaborative Telehealth Prototype
 I worked on a semester-long collaborative project with students from Michigan State University and Egerton University in Kenya to develop technology solutions for use in Kenya. Our team, which included a member based at Egerton, designed a physical prototype of a telehealth kiosk aimed at connecting remote communities with medical consultations and medications, overcoming challenges such as limited access to specialists and quality clinics. Afterward, we partnered with a Kenyan designer to create a high-fidelity version of the prototype.
 
+<button onclick="window.open('https://preview.tanzilzubair.tech/', '_blank');">See More</button>
+
 ### MSU Maps Prototype
 In my prototyping class, I collaborated with a team to develop a prototype for an app aimed at improving the campus experience for new Michigan State students. The app would help students navigate to their classrooms by plotting the best route on a map and suggesting places to eat along the way. I was involved in the creation of the Figma prototype, where I honed my skills in symbol creation and refining user interface elements.
 <!--
