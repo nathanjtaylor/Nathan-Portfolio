@@ -1,0 +1,96 @@
+---
+layout: article_layout.liquid
+title: Nathan Taylor
+---
+
+<a href="/projects/">back</a>
+<div class="mb-5" id="banner"><h1 class="fw-bold">Woodman Custom Contruction</h1></div>
+
+<section class="mb-5 row">
+    <div class="col-10"><h2>Client Needs</h2>
+        <p>The client wanted a simple portfolio site to showcase their work more efficiently. They emphasized that advertising and SEO were not priorities, which helped shape my approach to design.</p>
+        <p> Before the production of this website the client stored images of their work on their camera roll, which was inefficient to locate when they needed to show it off.
+        </p>
+    </div>
+    
+    <img class="col-2" src="/images/camera-roll.png" alt="smartphone camera roll">
+</section>
+
+<section class="mb-5">
+    <h2>Research & Planning</h2>
+    <p>Because I was the sole developer, I used AI (ChatGPT) to organize my ideas and explore different tools for the project. I would need some way for the client, who didn't have any technical experience, to add new projects to the website. Through research I found a content management system (CMS) would accomplish this goal. I thought of it like a blog where authors don't <strong>need</strong> to know web design.
+    <br><br>
+    I ended up using Decap CMS as the content management system. I chose this because it was already integrated with Netlify, the web-hosting service I would be using. This setup also allowed the client to manage their site at no additional cost, making it an ideal choice for a small-scale portfolio.
+    <br><br>
+    In hindsight, I realize I should have evaluated multiple CMS options before settling on Decap. While it worked well for this project, I now recognize the importance of comparing alternatives to ensure the best fit. Moving forward, I plan to be more thorough in this step of the process.</p>
+    <h3>Tools Identified</h3>
+    <div class="row inline-blocks">
+        <span class="col card inline">Figma</span>
+        <span class="col card inline">HTML, CSS, Javascript</span>
+        <span class="col card inline">Decap CMS</span>
+    </div>
+</section>
+
+<section class="mb-5">
+    <div class="mb-3" id="page-break"><h2>Design Process</h2></div>
+    <div class="row">
+        <div class="col">
+            <p>Since the project required both a home page and a project display page, I sketched multiple layout variations and presented them to the client. After reviewing the options together, we selected the most effective design.
+            <br><br>
+            Next, I refined the selected designs in Figma, creating higher-fidelity mockups. I met with the client again to review multiple variations and finalize the look. Additionally throughout this process I showed the prototype to others to observe how they interacted with it and gather insights on usability.</p>
+            <figure>
+                <figcaption>Figma Prototype</figcaption>
+                <img src="/images/wcc_figma1.jpg" alt="" class="w-75">
+            </figure>
+        </div>
+    
+        <div id="carouselExample" class="carousel col slide w-50 mx-auto">
+            <figcaption>Sketches</figcaption>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img src="/images/wcc_sketch2.jpg" class="d-block w-100" alt="sketch 1">
+              </div>
+              <div class="carousel-item">
+                <img src="/images/wcc_sketch4.jpg" class="d-block w-100" alt="sketch 2">
+              </div>
+              <div class="carousel-item">
+                <img src="/images/wcc_sketch3.jpg" class="d-block w-100" alt="sketch 3">
+              </div>
+            </div>
+            <button class="carousel-control-prev position-absolute top-50" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next position-absolute top-50" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+    </div>
+    
+</section>
+
+<section class="mb-5">
+    <h2>Development</h2>
+    <p>After finalizing the design, I moved into development, building the website with raw HTML and CSS. I focused on accurately implementing my design and keeping my code clean  and maintainable. I then implemented Decap CMS. Learning Decap was a challenge, as I had never worked with a CMS before, but I quickly adapted by thoroughly reviewing the documentation. I configured it to allow the client to add and edit project entries easily. I then wrote JavaScript to generate a static site dynamically based on the content stored in Decap CMS.
+    <br><br>
+    In the end, I delivered a fully functional system where the client could independently upload and manage projects, allowing them to show their work off to prospective clients effectively.</p>
+    <figure class="mx-auto figure">
+        <figcaption >Decap CMS Admin Page</figcaption>
+        <img src="/images/decap-cms.jpg" alt="content management system admin page" class="figure-image w-50">
+    </figure>
+
+</section>
+
+<section>
+    <h2>Final Outcome</h2>
+    <p>The final website provided the client with a simple, structured way to showcase their work without needing technical expertise. Instead of relying on a disorganized camera roll, they could now upload projects effortlessly through Decap CMS.
+    <br><br>
+    After a walkthrough of the system, the client found it intuitive and easy to use, allowing them to update their portfolio independently. This project not only met their needs but also gave them a more professional way to present their work to potential clients.
+    <br><br>
+    While the website successfully met the client’s needs, I recognize areas for improvement. In the future, I’d like to revisit this project with more experience to optimize loading times and improve performance, to create a smoother experience for visitors.</p>
+    <figure class="figure">
+        <figcaption >Final Design</figcaption>
+        <img src="/images/wcc-final.png" alt="final website design" class="w-50 mx-auto figure-img img-fluid rounded">
+    </figure>
+</section>

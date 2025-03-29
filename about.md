@@ -26,5 +26,6 @@ In addition to my leadership and volunteer work, I have participated in various 
 - 2023 MSU Game Jam
 - SpartaHack 9 (2024)
 - SpartaHack X (2025), where my team won the *New Horizons Frontier Award*
+- Designathon (2025)
 
 I am passionate about work that has the potential to make a positive impact, and I’m seeking full-time opportunities at organizations committed to delivering the best possible experience for their users.
