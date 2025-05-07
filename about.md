@@ -9,7 +9,7 @@ title: About
     <img class="about" alt="before a football game" src="/images/football.png"/>
     <img class="about" alt="rainy day during vacation to the Netherlands" src="/images/netherlands.png"/>
 </div>
-In May 2025, I will graduate from Michigan State University with a Bachelor of Arts in Information Science, and minors in Information Technology; Computer Science; and Computational Mathematics, Science, and Engineering. There’s nothing more satisfying to me than a well-designed digital experience—I love building solutions that are both functional and intuitive.
+I graduated from Michigan State University with a Bachelor of Arts in Information Science, and minors in Information Technology; Computer Science; and Computational Mathematics, Science, and Engineering. There’s nothing more satisfying to me than a well-designed digital experience—I love building solutions that are both functional and intuitive.
 
 During my time at university, I have worked on projects that have allowed me to apply and develop skills in:
  - Web Development - HTML, CSS, Javascript, PHP, React, Decap CMS
@@ -28,4 +28,4 @@ In addition to my leadership and volunteer work, I have participated in various 
 - SpartaHack X (2025), where my team won the *New Horizons Frontier Award*
 - Designathon (2025)
 
-I am passionate about work that has the potential to make a positive impact, and I’m seeking full-time opportunities at organizations committed to delivering the best possible experience for their users.
+I am passionate about work that has the potential to make a positive impact, and I’m seeking a full-time opportunity at an organization committed to delivering the best possible experience for their users.

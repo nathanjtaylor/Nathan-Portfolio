@@ -152,13 +152,9 @@ article figcaption {
 }
 
 article .tool{
-    transition: transform 0.2s ease, box-shadow 0.2s ease, color 0.2s ease;
+    transition: color 0.2s ease;
 }
 
-article .tool:hover{
-    transform: translateY(-3px);
-    box-shadow: 4px 4px 5px 1px rgba(34,7,18,0.25);
-}
 article #figma:hover{
     color: #14C978; 
 }article #html:hover{
