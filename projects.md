@@ -5,7 +5,7 @@ title: Projects
 
 # Projects
 ## Web Design & Development
-### <a href="https://woodmancustomconstruction.com/" target="_blank">Woodman Custom Construction</a>
+### Woodman Custom Construction
 I worked with Woodman Custom Construction to create a professional portfolio website that showcases their services and projects. The goal was to design a simple, user-friendly site the owner could easily upload new projects to. This was achieved through the integration of Decap CMS on a Netlify-hosted platform. As my first experience working with content management systems, this project provided an invaluable learning opportunity.
 
 <button onclick="window.location.href='/projects/wcc/';">See More</button>
