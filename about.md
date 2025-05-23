@@ -3,13 +3,13 @@ layout: article_layout.liquid
 title: About
 ---
 
-## Hello, I am <strong>Nathan Taylor</strong>, an Information Science senior focused on web development, UX design, and data analysis.
+## Hello, I am <strong>Nathan Taylor</strong>, a recent Michigan State graduate focused on web development, UX design, and data analysis.
 <div id="about-images">
     <img class="about" alt="on a camping trip" src="/images/camping.png"/>
     <img class="about" alt="before a football game" src="/images/football.png"/>
     <img class="about" alt="rainy day during vacation to the Netherlands" src="/images/netherlands.png"/>
 </div>
-I graduated from Michigan State University with a Bachelor of Arts in Information Science, and minors in Information Technology; Computer Science; and Computational Mathematics, Science, and Engineering. There’s nothing more satisfying to me than a well-designed digital experience—I love building solutions that are both functional and intuitive.
+I graduated from Michigan State University with a Bachelor of Arts in Information Science, and minors in Information Technology; Computer Science; and Computational Mathematics, Science, and Engineering. There’s nothing more satisfying to me than a well-designed digital experience, I love building solutions that are both functional and intuitive.
 
 During my time at university, I have worked on projects that have allowed me to apply and develop skills in:
  - Web Development - HTML, CSS, Javascript, PHP, React, Decap CMS
@@ -22,7 +22,7 @@ During my time at university, I have worked on projects that have allowed me to 
 
 Beyond academics, I have been actively involved in MSU’s campus community. For three years, I served as the president of the Tabletop Club, leading my e-board to create a welcoming space where students could unwind and connect through games. I also volunteered regularly through Spartan Day of Service and played saxophone in the Campus Symphonic Band.
 
-In addition to my leadership and volunteer work, I have participated in various programming events, including:
+In addition to my leadership and volunteer work, I have participated in various programming/design events, including:
 - 2023 MSU Game Jam
 - SpartaHack 9 (2024)
 - SpartaHack X (2025), where my team won the *New Horizons Frontier Award*
