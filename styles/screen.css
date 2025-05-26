@@ -111,6 +111,29 @@ button:hover {
 
 }
 
+.see_more_image_box {
+    position: relative;
+    float: right;
+}
+
+.see_more_image_box .hover_image {
+    display: none;
+}
+
+button:hover .see_more_image_box .hover_image {
+    display: block;
+}
+
+button:hover .see_more_image_box .default_image {
+    display: none;
+}
+
+
+.button_eye_icon {
+    width: 20px;
+    height: 20px;
+}
+
 .special {
     color: var(--light);
     background-color: var(--highlight);
