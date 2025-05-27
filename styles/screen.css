@@ -188,6 +188,12 @@ article #figma:hover{
     color: #FA9C28; 
 }article #decap:hover{
     color: #B53197; 
+}article #php:hover{
+    color: #4D5D90; 
+}article #nunjucks:hover{
+    color: #1D491B;
+}article #sql:hover{
+    color: #F58F2C;
 }
 
 #about-images{
@@ -244,15 +250,20 @@ footer ul li a:hover {
     margin-right: 1px;
 }
 
-article #banner {
-    background-image: url(/images/wcc_deck.png);
+article .banner {
     background-position: center;
     height: 250px;
     color: var(--light);
     padding: 1% 2%;
 }
+article .wcc {background-image: url(/images/wcc_deck.png);}
+article .hollander {
+    background-image: url(/images/makeatstate_banner.png);
+    background-size: cover;
+    background-position: bottom;
+} 
 
-article #banner h1{ 
+article .banner h1{ 
     text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
     1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
     letter-spacing: -1px;

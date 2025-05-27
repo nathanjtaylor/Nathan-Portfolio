@@ -15,8 +15,11 @@ I developed a script to integrate a Google Form with Google Sheets for a Fantasy
 
 
 
-### Portfolio
-This is the third iteration of my portfolio, reflecting significant growth in both my design and development skills. Over time, I’ve refined my approach to creating more intuitive, aesthetically pleasing, and functional designs. This portfolio serves as a showcase of my continuous development of my abilities.
+### MSU Hollander Makerspace Assessment Capabilites
+I was a part of a group that worked to add assessment capabilities to the Makerspace's website. This would allow them to better understand how their services were being used. This opportunity came about from the Information Technology minor, specifically a semester long project in the capstone class. In the end, the clients were impressed with our work which is currently being implemented onto the website.
+
+{% see_more_button "/projects/hollander/" %}
+
 
 ## User Experience
 
