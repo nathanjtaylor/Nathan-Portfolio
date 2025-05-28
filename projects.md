@@ -5,6 +5,18 @@ title: Projects
 
 # Projects
 ## Web Design & Development
+
+### MSU Hollander Makerspace Assessment Capabilites
+I was a part of a group that worked to add assessment capabilities to the Makerspace's website. This would allow them to better understand how their services were being used. This opportunity came about from the Information Technology minor, specifically a semester long project in the capstone class. In the end, the clients were impressed with our work which is currently being implemented onto the website.
+
+{% see_more_button "/projects/hollander/" %}
+
+
+### Spotify Unwrapped
+As a capstone project for my Advanced Web Development class I was a part of a team thatdevised an idea for a web project and developed it in React. This project was a culmination of everything we had learned in the class and work spanned everything from design to backend implementation. My team was quite successful, earning full credit for our work, and together we created something I am proud of.
+
+{% see_more_button "/projects/unwrapped/" %}
+
 ### Woodman Custom Construction
 I worked with Woodman Custom Construction to create a professional portfolio website that showcases their services and projects. The goal was to design a simple, user-friendly site the owner could easily upload new projects to. This was achieved through the integration of Decap CMS on a Netlify-hosted platform. As my first experience working with content management systems, this project provided an invaluable learning opportunity.
 
@@ -12,18 +24,6 @@ I worked with Woodman Custom Construction to create a professional portfolio web
 
 ### Sports Data Management System
 I developed a script to integrate a Google Form with Google Sheets for a Fantasy Football Manager, streamlining the process of managing their tournament. I worked closely with the manager to understand their specific needs and researched the most efficient solution to ensure a seamless experience for both participants and the manager. The final solution was well-received, with participants praising the simplicity of the form and the manager noting the significant time saved in organizing and tracking the tournament.
-
-
-
-### MSU Hollander Makerspace Assessment Capabilites
-I was a part of a group that worked to add assessment capabilities to the Makerspace's website. This would allow them to better understand how their services were being used. This opportunity came about from the Information Technology minor, specifically a semester long project in the capstone class. In the end, the clients were impressed with our work which is currently being implemented onto the website.
-
-{% see_more_button "/projects/hollander/" %}
-
-### Spotify Unwrapped
-
-{% see_more_button "/projects/unwrapped/" %}
-
 
 ## User Experience
 
