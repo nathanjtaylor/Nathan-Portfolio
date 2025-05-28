@@ -194,6 +194,12 @@ article #figma:hover{
     color: #1D491B;
 }article #sql:hover{
     color: #F58F2C;
+}article #react:hover{
+    color: #007FA2;
+}article #supabase:hover{
+    color: #00D38E;
+}article #spotify:hover{
+    color: #03D76E;
 }
 
 #about-images{
@@ -260,6 +266,10 @@ article .wcc {background-image: url(/images/wcc_deck.png);}
 article .hollander {
     background-image: url(/images/makeatstate_banner.png);
     background-size: cover;
+    background-position: bottom;
+} 
+article .unwrapped {
+    background-image: url(/images/unwrapped_banner.png);
     background-position: bottom;
 } 
 
