@@ -3,6 +3,7 @@
     --dark: #220712;
     --highlight: #480F26;
     --link: #AC2059;
+    --title: #7C1C43;
   }
 
 body {
@@ -159,7 +160,7 @@ article h2 strong{
     font-weight: bolder;
 }
 article h3 {
-    color: var(--highlight);
+    color: var(--title);
     font-size: 24px;
     letter-spacing: 0.2px;
     line-height: 120%;
