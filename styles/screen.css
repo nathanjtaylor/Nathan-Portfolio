@@ -124,12 +124,9 @@ button:hover {
 button:hover .see_more_image_box .hover_image {
     display: block;
 }
-
 button:hover .see_more_image_box .default_image {
     display: none;
 }
-
-
 .button_eye_icon {
     width: 20px;
     height: 20px;
@@ -170,6 +167,8 @@ article button {
     width: 135px;
     height: 48px;
     font-size: 18px;
+    padding-right: 10px;
+
 }
 article figcaption {
     font-weight: bold;
