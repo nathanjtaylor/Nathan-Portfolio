@@ -211,7 +211,7 @@ article #figma:hover{
 .inline-blocks{
     text-align: center;
     align-items: center;
-    gap: 50px;
+    gap: 5%;
     margin: 0 15% 0 15%; 
 }
 .inline {
@@ -322,5 +322,9 @@ article #image-split-right img{
 @media (width <= 600px) {
     nav ul li a {
         font-size: 24px;
+    }
+
+    .inline-blocks {
+        margin: 0;
     }
 }
